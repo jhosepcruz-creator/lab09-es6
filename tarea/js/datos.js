@@ -1,3 +1,4 @@
+// Módulo de datos para la tarea
 export const curso = "Diseño de Interfaces";
 
 const estudiantes = [
